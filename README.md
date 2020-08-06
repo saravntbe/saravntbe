@@ -7,7 +7,7 @@
 
  <!-- --- -->
 
-  A 👨🏻‍💻 polyglot, CLI, web, unix philosophy 🎉
+<!--  A 👨🏻‍💻 polyglot, CLI, web, unix philosophy 🎉 -->
 
 <!-- 👋🏻, am a Senior Front-End Developer ( JAVASCRIPT ) in a start up at Mumbai, INDIA. -->
 
