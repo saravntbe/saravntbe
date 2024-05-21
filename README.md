@@ -11,5 +11,5 @@
 
 <!-- 👋🏻, am a Senior Front-End Developer ( JAVASCRIPT ) in a start up at Mumbai, INDIA. -->
 
-🙏🏻  😈 😝 [SaRaVaNaN](https://twitter.com/saravntbe) ( S7N)
+[SaRaVaNaN](https://twitter.com/saravntbe)
 
